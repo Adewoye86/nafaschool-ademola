@@ -9,5 +9,9 @@
   "devDependencies": {
     "typescript": "^5.8.0",
     "vitest": "^3.0.0"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.1",
+    "dotenv": "^18.0.10"
   }
 }
